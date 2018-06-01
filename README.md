@@ -12,8 +12,8 @@ In order to "win" the bingo game, the player must "fill" (i.e., click) on five s
 Copyright and licensing
 =======================
 
-The Detroit: Become Human Bingo Card is a project by Keith Macpherson, and is a fork of The Interactive Feminist Bingo Card, which is a project of the [Irregular Gentlewomen] https://github.com/irregulargentlewomen): [Betsy Haibel](http://www.betsyhaibel.com) and [Elizabeth Yalkut](http://www.elizabethyalkut.com).
-It is released under a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/3.0/). The code is [available on Github](https://github.com/irregulargentlewomen/feminist-bingo).
+The Detroit: Become Human Bingo Card is a project by Keith Macpherson, and is a fork of The Interactive Feminist Bingo Card by the [Irregular Gentlewomen] https://github.com/irregulargentlewomen): [Betsy Haibel](http://www.betsyhaibel.com) and [Elizabeth Yalkut](http://www.elizabethyalkut.com).
+It is released under a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/3.0/). The code for the original version is [available on Github](https://github.com/irregulargentlewomen/feminist-bingo).
 
 Changes to the source are focussed on changing the subjects present on the original card, as well as adding saving and reloading data to browser local storage, to enable tracking cliches across a TV series.
 
