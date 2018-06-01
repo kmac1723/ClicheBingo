@@ -1,4 +1,7 @@
-The Detroit: Become Human Bingo Card is an interactive application to track cliches and narrative misteps in the latest interactive story-driven experience from acclaimed studio Quantic Dream.  Set in the near-future, Detroit is experiencing an economic boom due to it's production of humanoid androids, a source of limitless menial labour.  However, the androids themselves exist as second class citizens, and are subject to discrimination and abuse from the human population, even as they struggle to create their own identity.  Will the androids cast off the yokes of their oppression, get acknowledged as real living beings, and finally Become Human?  Probably.
+The Detroit: Become Human Bingo Card is an interactive application to track cliches and narrative misteps in the latest interactive story-driven experience from acclaimed studio Quantic Dream.  
+
+Set in the near-future, Detroit is experiencing an economic boom due to it's production of humanoid androids, a source of limitless menial labour.  However, the androids themselves exist as second class citizens, and are subject to discrimination and abuse from the human population, even as they struggle to create their own identity.  Will the androids cast off the yokes of their oppression, get acknowledged as real living beings, and finally Become Human?  Probably.
+
 The real question is: Will a story about robot slavery, systemic discrimination, and transhumanist civil rights be told in a sensitive and thoughtful manner by the creative minds at Quantic Dream?  Based on their prior output, almost certainly not.
 
 Instructions
